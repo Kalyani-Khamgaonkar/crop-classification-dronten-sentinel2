@@ -19,7 +19,7 @@ Manually identifying crop types across thousands of parcels is impractical at sc
 3. Five spectral indices engineered per month: **NDVI, EVI, NDMI, NDBI, RE-NDVI**
 4. 105 total features — 70 raw band reflectances + 35 derived indices across 7 months
 5. Random Forest trained on pre-assigned 60/20/20 split with GridSearchCV (f1-macro scoring)
-6. Spatial error analysis using **Moran's I** and neighbour heterogeneity metrics
+6. Spatial error analysis 
 
 ## Results
 
