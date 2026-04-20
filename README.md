@@ -44,7 +44,7 @@ Manually identifying crop types across thousands of parcels is impractical at sc
 
 A complete walkthrough of the methodology, feature engineering, hyperparameter tuning, and critical reflection is available in:
 
-**[`presentation/Crop_Classification_Dronten.pdf`](presentation/Crop_Classification_Dronten.pdf)**
+**[`Crop_Classification_Dronten.pdf`](Crop_Classification_Dronten.pdf)**
 
 ## Tech stack
 
